@@ -1,0 +1,18 @@
+{
+    "name": "svg_file_generator",
+    "version": "1.0.0",
+    "description": "svg file generator",
+    "main": "index.js",
+    "directories": {
+      "example": "examples",
+      "lib": "lib",
+      "test": "test"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "fix-esm": "^1.0.1",
+      "fs": "^0.0.1-security",
+      "inquirer": "^8.2.4"
+    }
+}
